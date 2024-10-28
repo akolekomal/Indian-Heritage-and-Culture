@@ -75,21 +75,24 @@ hr {
     background-color: rgb(231, 229, 229);
     border: 2px solid orangered;
     width: 250px;
-    height: 80px;
+    height: 70px;
     align-content: center;
     flex-grow: 1;
     border-radius: 10px;
-    padding: 0  20px;
+    padding: 0 20px;
     display: flex;
     align-items: center;
     justify-content: space-between;
 }
-.stateName h3 {
+
+.stateName h4 {
     font-weight: bold;
 }
+
 .stateName p {
-margin-top: 10px;
-color: red;
+    margin-top: 10px;
+    color: red;
+    font-size: 14px;
 }
 
 .stateName button {
@@ -101,6 +104,7 @@ color: red;
     cursor: pointer;
     font-size: 15px;
 }
+
 .stateName button:hover {
     color: white;
     background-color: navy;
