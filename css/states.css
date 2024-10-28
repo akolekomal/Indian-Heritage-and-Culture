@@ -75,7 +75,7 @@ hr {
     background-color: rgb(231, 229, 229);
     border: 2px solid orangered;
     width: 250px;
-    height: 80px;
+    height: 70px;
     align-content: center;
     flex-grow: 1;
     border-radius: 10px;
@@ -84,12 +84,13 @@ hr {
     align-items: center;
     justify-content: space-between;
 }
-.stateName h3 {
+.stateName h4 {
     font-weight: bold;
 }
 .stateName p {
 margin-top: 10px;
 color: red;
+font-size: 14px;
 }
 
 .stateName button {
