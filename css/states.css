@@ -74,7 +74,7 @@ hr {
 .stateName {
     background-color: rgb(231, 229, 229);
     border: 2px solid orangered;
-    width: 300px;
+    width: 250px;
     height: 80px;
     align-content: center;
     flex-grow: 1;
